@@ -1,0 +1,80 @@
+body {
+    background: linear-gradient(to right, rgb(255, 252, 216) , rgb(255, 255, 255) 10%, rgb(232, 255, 237));
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+h3{
+    color:rgb(49, 49, 49);
+    font-size: medium;
+    text-align: center;
+}
+h4{
+    color: rgb(50,50,50);
+    font-size: small;
+}
+h5{
+    color: rgb(50,50,50);
+    font-size: medium;
+    text-align: left;
+}
+
+.caixaPrincipal{
+    font-family: arial;
+    text-align: left;
+    display: block;    
+    width: auto;
+    
+}
+.principalInterno{
+    margin-top: 5px;
+    padding-top: 5px;
+    text-align: center;
+   
+}
+.caixaColuna{
+    font-family: Arial;    
+    text-align: center;
+    display: flex;
+    width: auto;
+    
+}
+.colunaInterno{
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: auto;
+    
+}
+
+.caixaRodape{
+    font-family: arial;
+    text-align: left;
+    display: flex;
+    width: auto;
+    
+}
+.rodapeInterno{
+ 
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 50%;
+    background-color: rgb(182, 182, 182);
+    
+}
+.rodapeDireito{
+    margin-top: 35px;  
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 50%;
+    background-color: rgb(182, 182, 182);
+    text-align:center;
+    
+}   
