@@ -37,6 +37,18 @@ h5{
     text-align: center;
    
 }
+
+.principalInternoEmprestimo{
+    margin-top: 10px;  
+    margin-bottom: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+
+} 
 .caixaColuna{
     font-family: Arial;    
     text-align: center;
@@ -51,6 +63,16 @@ h5{
     width: auto;
     
 }
+.colunaInternoEmprestimo{
+    margin-top: 2px;  
+    margin-bottom: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    width: 42%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align:center;
+}
 
 .caixaRodape{
     font-family: arial;
@@ -62,11 +84,11 @@ h5{
 .rodapeInterno{
  
     margin-bottom: 2px;
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
     width: 50%;
     background-color: rgb(182, 182, 182);
-    
+    border-radius: 10px;    
 }
 .rodapeDireito{
     margin-top: 35px;  
