@@ -79,14 +79,22 @@ h5{
     text-align: center;
     display: flex;
     width: auto;
+
+}
+.caixaCliente{  
     
+    border: 3px solid black;
+    text-align: center;    
+    border-radius: 10px;
+    background-color: aqua;
+    margin: auto;
 }
 .colunaInterno{
     margin-bottom: 5px;
     margin-left: 5px;
     margin-right: 5px;
-    width: auto;
-    
+    width: auto;  
+   
 }
 .colunaInternoEmprestimo{
     margin-top: 2px;  
@@ -125,3 +133,10 @@ h5{
     text-align:center;
     
 }   
+
+.aling-right{
+    float: right;
+    padding-right: 10px;
+    margin-right: 40px;
+}
+
