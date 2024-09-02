@@ -81,6 +81,11 @@ h5{
     width: auto;
 
 }
+.colunaCliente{
+    margin: auto;
+    border-radius: 10px;
+    text-align:center;
+}
 .caixaCliente{  
     
     border: 3px solid black;
